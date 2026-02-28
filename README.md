@@ -6,5 +6,3 @@ I enjoy working on:
 🖼️ Image Processing  
 🔊 Audio Processing  
 🤖 Artificial Intelligence
-
-**Tech stack:** Python, Django, React, PyTorch, TensorFlow, OpenCV
